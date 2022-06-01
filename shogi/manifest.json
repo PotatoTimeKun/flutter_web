@@ -1,6 +1,6 @@
 {
-    "name": "sho2",
-    "short_name": "sho2",
+    "name": "shogi",
+    "short_name": "shogi",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
